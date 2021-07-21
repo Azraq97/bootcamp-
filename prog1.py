@@ -1,4 +1,2 @@
-name="python"
-year=1990
-l=f"{name}{year}"
-print(l)
+def sum(a,b):
+    return a+b
